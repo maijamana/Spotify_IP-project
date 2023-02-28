@@ -9,3 +9,8 @@ json
 pycountry
 folium
 from geopy.geocoders import Nominatim
+
+imports for task2
+base64
+requests
+json
