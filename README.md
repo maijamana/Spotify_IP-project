@@ -1,4 +1,4 @@
-# 2023lab2
+This project is a UCU university lab work that allows retrieving data from the Spotify API about artists, their songs, albums, and similar artists.
 
 imports for flask_spoty
 
@@ -11,6 +11,8 @@ folium
 from geopy.geocoders import Nominatim
 
 imports for task2
+
 base64
 requests
 json
+
