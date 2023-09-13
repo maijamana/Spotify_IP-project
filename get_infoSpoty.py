@@ -1,8 +1,8 @@
 import base64
 import requests
 import json
-client_id = input('Please, enter your client_id')
-client_secret = input('Please, enter your client_secret')
+client_id = input('Please, enter your client_id: ')
+client_secret = input('Please, enter your client_secret: ')
 
 
 def find_info_about_artist(token, artist_name, country_name):
