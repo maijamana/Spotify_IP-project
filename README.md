@@ -10,7 +10,7 @@ pycountry
 folium
 from geopy.geocoders import Nominatim
 
-imports for task2
+imports for get_infoSpoty
 
 base64
 requests
