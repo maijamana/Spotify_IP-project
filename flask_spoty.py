@@ -6,8 +6,8 @@ import pycountry
 import folium
 from geopy.geocoders import Nominatim
 
-client_id = 'faa359690849484eaf9ae8d6f1c3353d'
-client_secret = 'aa445e96f01343afbb14337da971ab84'
+client_id = input('Write your client_id:')
+client_secret = input('Write your client_secret:')
 
 def get_token(client_id, client_secret):
     '''
